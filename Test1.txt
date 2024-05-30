@@ -1,0 +1,12 @@
+Public class Test1 {
+
+String S="Swapnil";
+
+Public static void main(String[] args)
+{
+Test1 t1= new Test1;
+Syso(t1);
+
+}
+
+}
